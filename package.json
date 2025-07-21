@@ -1,0 +1,14 @@
+{
+  "name": "monorepo-template",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A monorepo template with pnpm and changesets.",
+  "scripts": {
+    "build": "pnpm -r --filter=./packages/* run build"
+  },
+  "packageManager": "pnpm@9.8.0",
+  "license": "MIT",
+  "devDependencies": {
+    "@changesets/cli": "^2.29.5"
+  }
+}
