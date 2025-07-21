@@ -1,5 +1,5 @@
 {
-  "name": "monorepo-template",
+  "name": "blossom-monorepo-template",
   "version": "0.0.0",
   "private": true,
   "description": "A monorepo template with pnpm and changesets.",

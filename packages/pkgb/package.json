@@ -1,12 +1,12 @@
 {
-  "name": "@monorepoproject/pkgb",
+  "name": "@blossom-monorepo-template/pkgb",
   "version": "0.0.0",
   "main": "dist/index.js",
   "files": [
     "dist"
   ],
   "dependencies": {
-    "@monorepoproject/pkga": "^0.0.0"
+    "@blossom-monorepo-template/pkga": "^0.0.0"
   },
   "devDependencies": {
     "rimraf": "^3.0.2",

@@ -1,6 +1,6 @@
 
 {
-  "name": "@monorepoproject/pkga",
+  "name": "@blossom-monorepo-template/pkga",
   "version": "0.0.0",
   "main": "dist/index.js",
   "files": [
