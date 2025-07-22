@@ -7,3 +7,7 @@ export const typeOf = (obj: any) => Object.prototype.toString.call(obj).slice(8,
 export function logPrint(text: string) {
     console.log(text)
 }
+
+export function test() {
+    console.log("test")
+}
