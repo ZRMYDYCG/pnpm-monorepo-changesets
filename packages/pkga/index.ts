@@ -3,3 +3,7 @@ export const isEven = (x: number) => x % 2 === 0
 export const a = 0
 
 export const typeOf = (obj: any) => Object.prototype.toString.call(obj).slice(8, -1).toLowerCase()
+
+export function logPrint(text: string) {
+    console.log(text)
+}
