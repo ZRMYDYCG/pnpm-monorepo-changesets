@@ -1,0 +1,12 @@
+{
+  "mode": "exit",
+  "tag": "alph",
+  "initialVersions": {
+    "@blossom-monorepo-template/pkga": "0.0.0",
+    "@blossom-monorepo-template/pkgb": "0.0.0",
+    "@blossom-monorepo-template/pkgc": "0.0.0"
+  },
+  "changesets": [
+    "gentle-poems-sell"
+  ]
+}
